@@ -1,3 +1,6 @@
+let g:python3_host_prog = '/usr/bin/python3'
+
+
 " This script contains  a list of Vim-Plugged plugins 
 runtime configs/plugins.vim
 " This script contains general neovim settings 
